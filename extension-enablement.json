@@ -1,0 +1,22 @@
+{
+  "clasp": {
+    "overrides": [
+      "/home/lucas/*"
+    ]
+  },
+  "canva": {
+    "overrides": [
+      "/home/lucas/*"
+    ]
+  },
+  "nanobanana": {
+    "overrides": [
+      "/home/lucas/*"
+    ]
+  },
+  "code-review": {
+    "overrides": [
+      "/home/lucas/*"
+    ]
+  }
+}
