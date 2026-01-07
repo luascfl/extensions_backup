@@ -1,9 +1,4 @@
 {
-  "clasp": {
-    "overrides": [
-      "/home/lucas/*"
-    ]
-  },
   "canva": {
     "overrides": [
       "/home/lucas/*"
